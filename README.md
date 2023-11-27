@@ -1,14 +1,16 @@
 # icon
 
-####  订阅图标
+###  订阅图标
   
 🔘文本编辑 
 
-           img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/name.png
+           img-url=https://raw.githubusercontent.com/Jard1n/icon/main/Country/name.png
+           img-url=https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/name.png
 
 🔘UI使用   在策略界面点长按想要更改图标的订阅/策略组，弹出界面中，在图标一栏填写 
 
-           https://raw.githubusercontent.com/Orz-3/mini/master/Color/name.png
+           https://raw.githubusercontent.com/Jard1n/icon/main/Country/name.png
+           https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/name.png
 
 注：请将使用方法中的name.png替换成相应文件的文件名
 
