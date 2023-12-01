@@ -28,8 +28,6 @@
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/模板4.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/模板5.jpg)
-
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略.png)
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略1.png)
