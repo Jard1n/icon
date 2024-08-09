@@ -1,0 +1,274 @@
+{
+  "name": "Emby",
+  "description": "Jard1n",
+  "icons": [
+    {
+      "name": "108111.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/108111.png"
+    },
+    {
+      "name": "AC5.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/AC5.png"
+    },
+    {
+      "name": "Bgk.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Bgk.png"
+    },
+    {
+      "name": "Brother1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Brother1.png"
+    },
+    {
+      "name": "CC.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/CC.png"
+    },
+    {
+      "name": "Didi1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Didi1.png"
+    },
+    {
+      "name": "Emby111.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Emby111.png"
+    },
+    {
+      "name": "Erciyuan.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Erciyuan.png"
+    },
+    {
+      "name": "Erciyuan9.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Erciyuan9.png"
+    },
+    {
+      "name": "FOX.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/FOX.png"
+    },
+    {
+      "name": "HXD.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/HXD.png"
+    },
+    {
+      "name": "HXD111.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/HXD111.png"
+    },
+    {
+      "name": "HXD112.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/HXD112.png"
+    },
+    {
+      "name": "HXD9.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/HXD9.png"
+    },
+    {
+      "name": "Hygge1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Hygge1.png"
+    },
+    {
+      "name": "JMS.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/JMS.png"
+    },
+    {
+      "name": "JMS1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/JMS1.png"
+    },
+    {
+      "name": "JMS9.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/JMS9.png"
+    },
+    {
+      "name": "Juzi1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Juzi1.png"
+    },
+    {
+      "name": "Karong.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Karong.png"
+    },
+    {
+      "name": "Karong91.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Karong91.png"
+    },
+    {
+      "name": "Lend1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Lend1.png"
+    },
+    {
+      "name": "Lend2.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Lend2.png"
+    },
+    {
+      "name": "Lyrebird.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Lyrebird.png"
+    },
+    {
+      "name": "MisakaF.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/MisakaF.png"
+    },
+    {
+      "name": "MisakaF1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/MisakaF1.png"
+    },
+    {
+      "name": "MisakaF2.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/MisakaF2.png"
+    },
+    {
+      "name": "MisakaF3.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/MisakaF3.png"
+    },
+    {
+      "name": "Misty.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Misty.png"
+    },
+    {
+      "name": "Misty9.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Misty9.png"
+    },
+    {
+      "name": "Myemby1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Myemby1.png"
+    },
+    {
+      "name": "Myemby2.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Myemby2.png"
+    },
+    {
+      "name": "Nm2.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Nm2.png"
+    },
+    {
+      "name": "Nya1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Nya1.png"
+    },
+    {
+      "name": "Nya2.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Nya2.png"
+    },
+    {
+      "name": "ODY.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/ODY.png"
+    },
+    {
+      "name": "ODY9.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/ODY9.png"
+    },
+    {
+      "name": "Otaku.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Otaku.png"
+    },
+    {
+      "name": "Palipali1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Palipali1.png"
+    },
+    {
+      "name": "Palipali2.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Palipali2.png"
+    },
+    {
+      "name": "Paul1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Paul1.png"
+    },
+    {
+      "name": "Paul2.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Paul2.png"
+    },
+    {
+      "name": "Peach2.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Peach2.png"
+    },
+    {
+      "name": "Peach9.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Peach9.png"
+    },
+    {
+      "name": "Pecach_Private2.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Pecach_Private2.png"
+    },
+    {
+      "name": "Porn.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Porn.png"
+    },
+    {
+      "name": "Porn1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Porn1.png"
+    },
+    {
+      "name": "Porn9.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Porn9.png"
+    },
+    {
+      "name": "Shu1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Shu1.png"
+    },
+    {
+      "name": "Shu2.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Shu2.png"
+    },
+    {
+      "name": "Shuimu1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Shuimu1.png"
+    },
+    {
+      "name": "Shuimu2.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Shuimu2.png"
+    },
+    {
+      "name": "Tanhua3.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Tanhua3.png"
+    },
+    {
+      "name": "Tree1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Tree1.png"
+    },
+    {
+      "name": "Tree2.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Tree2.png"
+    },
+    {
+      "name": "Viper3.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Viper3.png"
+    },
+    {
+      "name": "Viper4.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Viper4.png"
+    },
+    {
+      "name": "Vper1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Vper1.png"
+    },
+    {
+      "name": "Vper2.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Vper2.png"
+    },
+    {
+      "name": "ZDZ.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/ZDZ.png"
+    },
+    {
+      "name": "acv1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/acv1.png"
+    },
+    {
+      "name": "acv2.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/acv2.png"
+    },
+    {
+      "name": "Ing.jpg",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Ing.jpg"
+    },
+    {
+      "name": "rain.jpg",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/rain.jpg"
+    },
+    {
+      "name": "Heisi.JPG",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Heisi.JPG"
+    },
+    {
+      "name": "Loser.JPG",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Loser.JPG"
+    },
+    {
+      "name": "YSCT.JPG",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/YSCT.JPG"
+    }
+  ]
+}

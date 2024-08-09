@@ -1,0 +1,490 @@
+{
+  "name": "Task",
+  "description": "Jard1n",
+  "icons": [
+    {
+      "name": "1000.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/1000.png"
+    },
+    {
+      "name": "10000.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/10000.png"
+    },
+    {
+      "name": "1001.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/1001.png"
+    },
+    {
+      "name": "10010.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/10010.png"
+    },
+    {
+      "name": "10086.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/10086.png"
+    },
+    {
+      "name": "1086.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/1086.png"
+    },
+    {
+      "name": "12306.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/12306.png"
+    },
+    {
+      "name": "52pj.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/52pj.png"
+    },
+    {
+      "name": "Aiqiyi.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Aiqiyi.png"
+    },
+    {
+      "name": "Bilibili.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Bilibili.png"
+    },
+    {
+      "name": "Bububao.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Bububao.png"
+    },
+    {
+      "name": "Chunfengzhuan.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Chunfengzhuan.png"
+    },
+    {
+      "name": "Conghua.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Conghua.png"
+    },
+    {
+      "name": "Dianshijia.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Dianshijia.png"
+    },
+    {
+      "name": "Didi.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Didi.png"
+    },
+    {
+      "name": "Duokandian.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Duokandian.png"
+    },
+    {
+      "name": "Enterprise.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Enterprise.png"
+    },
+    {
+      "name": "Fanli.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Fanli.png"
+    },
+    {
+      "name": "Fanqiekankan.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Fanqiekankan.png"
+    },
+    {
+      "name": "JD01.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/JD01.png"
+    },
+    {
+      "name": "JD02.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/JD02.png"
+    },
+    {
+      "name": "JDBean.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/JDBean.png"
+    },
+    {
+      "name": "KuaiKan.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/KuaiKan.png"
+    },
+    {
+      "name": "Kuaishou.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Kuaishou.png"
+    },
+    {
+      "name": "Langguoyy.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Langguoyy.png"
+    },
+    {
+      "name": "Luka.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Luka.png"
+    },
+    {
+      "name": "Mangotv.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Mangotv.png"
+    },
+    {
+      "name": "Netease.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Netease.png"
+    },
+    {
+      "name": "NeteaseNews.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/NeteaseNews.png"
+    },
+    {
+      "name": "OpenL.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/OpenL.png"
+    },
+    {
+      "name": "QQ.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/QQ.png"
+    },
+    {
+      "name": "QQRead.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/QQRead.png"
+    },
+    {
+      "name": "QQread.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/QQread.png"
+    },
+    {
+      "name": "QQreads.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/QQreads.png"
+    },
+    {
+      "name": "Qczj.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Qczj.png"
+    },
+    {
+      "name": "Quanminyuedong.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Quanminyuedong.png"
+    },
+    {
+      "name": "Shuimianzhuan.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Shuimianzhuan.png"
+    },
+    {
+      "name": "Shuqixiaoshuo.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Shuqixiaoshuo.png"
+    },
+    {
+      "name": "TTyuyin.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/TTyuyin.png"
+    },
+    {
+      "name": "VSH.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/VSH.png"
+    },
+    {
+      "name": "Weikezongzhi.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Weikezongzhi.png"
+    },
+    {
+      "name": "Wenlvkandian.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Wenlvkandian.png"
+    },
+    {
+      "name": "Wps.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Wps.png"
+    },
+    {
+      "name": "Xiaopu.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Xiaopu.png"
+    },
+    {
+      "name": "Ximalaya.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Ximalaya.png"
+    },
+    {
+      "name": "Ximei.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Ximei.png"
+    },
+    {
+      "name": "Xinyunzhuandian.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Xinyunzhuandian.png"
+    },
+    {
+      "name": "Xuanshangmiao.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Xuanshangmiao.png"
+    },
+    {
+      "name": "Yangguangguoyuan.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Yangguangguoyuan.png"
+    },
+    {
+      "name": "Youth.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Youth.png"
+    },
+    {
+      "name": "Yuedongzu.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Yuedongzu.png"
+    },
+    {
+      "name": "Yunsaoma.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Yunsaoma.png"
+    },
+    {
+      "name": "Zhimashipin.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/Zhimashipin.png"
+    },
+    {
+      "name": "acfun.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/acfun.png"
+    },
+    {
+      "name": "alipay.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/alipay.png"
+    },
+    {
+      "name": "appstore.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/appstore.png"
+    },
+    {
+      "name": "baidu.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/baidu.png"
+    },
+    {
+      "name": "bcz.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/bcz.png"
+    },
+    {
+      "name": "bilibili.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/bilibili.png"
+    },
+    {
+      "name": "box.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/box.png"
+    },
+    {
+      "name": "bubei.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/bubei.png"
+    },
+    {
+      "name": "caiyun.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/caiyun.png"
+    },
+    {
+      "name": "calendar.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/calendar.png"
+    },
+    {
+      "name": "cmbchina.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/cmbchina.png"
+    },
+    {
+      "name": "ctrip.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/ctrip.png"
+    },
+    {
+      "name": "didi.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/didi.png"
+    },
+    {
+      "name": "dingtalk.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/dingtalk.png"
+    },
+    {
+      "name": "douyu.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/douyu.png"
+    },
+    {
+      "name": "duokan.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/duokan.png"
+    },
+    {
+      "name": "elem.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/elem.png"
+    },
+    {
+      "name": "epic.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/epic.png"
+    },
+    {
+      "name": "everphoto.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/everphoto.png"
+    },
+    {
+      "name": "feng.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/feng.png"
+    },
+    {
+      "name": "fenqile.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/fenqile.png"
+    },
+    {
+      "name": "github.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/github.png"
+    },
+    {
+      "name": "hellbike.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/hellbike.png"
+    },
+    {
+      "name": "heybox.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/heybox.png"
+    },
+    {
+      "name": "iQIYI.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/iQIYI.png"
+    },
+    {
+      "name": "icbc.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/icbc.png"
+    },
+    {
+      "name": "ithome.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/ithome.png"
+    },
+    {
+      "name": "jd.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/jd.png"
+    },
+    {
+      "name": "jdczf.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/jdczf.png"
+    },
+    {
+      "name": "jingxi.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/jingxi.png"
+    },
+    {
+      "name": "jrtt.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/jrtt.png"
+    },
+    {
+      "name": "kuaishou.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/kuaishou.png"
+    },
+    {
+      "name": "lol.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/lol.png"
+    },
+    {
+      "name": "manga.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/manga.png"
+    },
+    {
+      "name": "maoyan.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/maoyan.png"
+    },
+    {
+      "name": "meituan.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/meituan.png"
+    },
+    {
+      "name": "mgtv.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/mgtv.png"
+    },
+    {
+      "name": "mihoyo.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/mihoyo.png"
+    },
+    {
+      "name": "moji.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/moji.png"
+    },
+    {
+      "name": "neteasemusic.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/neteasemusic.png"
+    },
+    {
+      "name": "qimao.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/qimao.png"
+    },
+    {
+      "name": "qmkg.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/qmkg.png"
+    },
+    {
+      "name": "qqmusic.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/qqmusic.png"
+    },
+    {
+      "name": "quantumultx.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/quantumultx.png"
+    },
+    {
+      "name": "qunar.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/qunar.png"
+    },
+    {
+      "name": "sfexpress.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/sfexpress.png"
+    },
+    {
+      "name": "shadowrocket.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/shadowrocket.png"
+    },
+    {
+      "name": "stash.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/stash.png"
+    },
+    {
+      "name": "surge.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/surge.png"
+    },
+    {
+      "name": "tieba.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/tieba.png"
+    },
+    {
+      "name": "tongc.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/tongc.png"
+    },
+    {
+      "name": "translate.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/translate.png"
+    },
+    {
+      "name": "txnews.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/txnews.png"
+    },
+    {
+      "name": "unipay.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/unipay.png"
+    },
+    {
+      "name": "videoqq.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/videoqq.png"
+    },
+    {
+      "name": "wanda.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/wanda.png"
+    },
+    {
+      "name": "weibo.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/weibo.png"
+    },
+    {
+      "name": "wmmeituan.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/wmmeituan.png"
+    },
+    {
+      "name": "wps.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/wps.png"
+    },
+    {
+      "name": "wykl.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/wykl.png"
+    },
+    {
+      "name": "xiaomiyp.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/xiaomiyp.png"
+    },
+    {
+      "name": "ximalaya.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/ximalaya.png"
+    },
+    {
+      "name": "yanxuan.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/yanxuan.png"
+    },
+    {
+      "name": "yiLi.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/yiLi.png"
+    },
+    {
+      "name": "zongheng.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/zongheng.png"
+    },
+    {
+      "name": "zscdb.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/zscdb.png"
+    },
+    {
+      "name": "zxhc.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/zxhc.png"
+    },
+    {
+      "name": "zymk.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Task/zymk.png"
+    }
+  ]
+}
