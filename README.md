@@ -12,6 +12,14 @@
     https://raw.githubusercontent.com/Jard1n/icon/main/Country/name.png
     https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/name.png
 
+🔘 Json文件
+
+    https://raw.githubusercontent.com/Jard1n/icon/main/Airport.json
+    https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter.json
+    https://raw.githubusercontent.com/Jard1n/icon/main/Country.json
+    https://raw.githubusercontent.com/Jard1n/icon/main/Emby.json
+    https://raw.githubusercontent.com/Jard1n/icon/main/Task.json
+
 注：请将使用方法中的name.png替换成相应文件的文件名
 
   
