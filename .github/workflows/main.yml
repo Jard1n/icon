@@ -1,0 +1,53 @@
+name: icons
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'Airport/**/*.{png,jpg,JPG}'
+      - 'App/**/*.{png,jpg,JPG}'
+      - 'AppFilter/**/*.{png,jpg,JPG}'
+      - 'Country/**/*.{png,jpg,JPG}'
+      - 'Emby/**/*.{png,jpg,JPG}'
+      - 'Task/**/*.{png,jpg,JPG}'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Install jq
+      run: sudo apt-get install -y jq
+
+    - name: Get repository and branch information
+      id: repo-info
+      run: |
+        REPO=$(echo "${GITHUB_REPOSITORY}" | cut -d '/' -f 2)
+        echo "REPO_NAME=${REPO}" >> $GITHUB_ENV
+        BRANCH=$(echo "${GITHUB_REF#refs/heads/}")
+        echo "BRANCH_NAME=${BRANCH}" >> $GITHUB_ENV
+
+    - name: Generate icons.json files
+      run: |
+        declare -a ICONS_PATHS=("Airport" "App" "AppFilter" "Country" "Emby" "Task")
+        for path in "${ICONS_PATHS[@]}"; do
+          ICONS_JSON="{\"name\": \"${path^}\", \"description\": \"Jard1n\", \"icons\": []}"
+          for icon in ${path}/*.{png,jpg,JPG}; do
+            [ -e "$icon" ] || continue
+            ICON_NAME=$(basename "$icon")
+            ICON_URL="https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/${BRANCH_NAME}/$icon"
+            ICONS_JSON=$(echo "$ICONS_JSON" | jq --arg name "$ICON_NAME" --arg url "$ICON_URL" '.icons += [{"name": $name, "url": $url}]')
+          done
+          echo "$ICONS_JSON" > "${path}.json"
+        done
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add *.json
+        git commit -m "Update icons JSON files" -a || echo "No changes to commit"
+        git push
