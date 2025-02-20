@@ -1,0 +1,130 @@
+{
+  "name": "Country",
+  "description": "Jard1n",
+  "icons": [
+    {
+      "name": "AU.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/AU.png"
+    },
+    {
+      "name": "CA.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/CA.png"
+    },
+    {
+      "name": "CN.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/CN.png"
+    },
+    {
+      "name": "DE.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/DE.png"
+    },
+    {
+      "name": "EU.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/EU.png"
+    },
+    {
+      "name": "European_Union.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/European_Union.png"
+    },
+    {
+      "name": "FR.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/FR.png"
+    },
+    {
+      "name": "HK.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/HK.png"
+    },
+    {
+      "name": "HongKong.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/HongKong.png"
+    },
+    {
+      "name": "Hong_Kong.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/Hong_Kong.png"
+    },
+    {
+      "name": "JP.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/JP.png"
+    },
+    {
+      "name": "Japan.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/Japan.png"
+    },
+    {
+      "name": "Japan1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/Japan1.png"
+    },
+    {
+      "name": "KR.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/KR.png"
+    },
+    {
+      "name": "MO.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/MO.png"
+    },
+    {
+      "name": "Otan.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/Otan.png"
+    },
+    {
+      "name": "RU.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/RU.png"
+    },
+    {
+      "name": "SG.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/SG.png"
+    },
+    {
+      "name": "Singapore.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/Singapore.png"
+    },
+    {
+      "name": "Singapore1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/Singapore1.png"
+    },
+    {
+      "name": "TH.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/TH.png"
+    },
+    {
+      "name": "TR.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/TR.png"
+    },
+    {
+      "name": "TW.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/TW.png"
+    },
+    {
+      "name": "Taiwan.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/Taiwan.png"
+    },
+    {
+      "name": "Taiwan1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/Taiwan1.png"
+    },
+    {
+      "name": "UK.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/UK.png"
+    },
+    {
+      "name": "UN.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/UN.png"
+    },
+    {
+      "name": "US.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/US.png"
+    },
+    {
+      "name": "UnitedStates.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/UnitedStates.png"
+    },
+    {
+      "name": "United_States.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/United_States.png"
+    },
+    {
+      "name": "VN.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Country/VN.png"
+    }
+  ]
+}

@@ -1,0 +1,762 @@
+{
+  "name": "Emby",
+  "description": "Jard1n",
+  "icons": [
+    {
+      "name": "1111-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/1111-F.png"
+    },
+    {
+      "name": "1111-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/1111-Y.png"
+    },
+    {
+      "name": "ALiYun-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/ALiYun-F.png"
+    },
+    {
+      "name": "ALiYun-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/ALiYun-Y.png"
+    },
+    {
+      "name": "AWA-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/AWA-F.png"
+    },
+    {
+      "name": "AWA-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/AWA-Y.png"
+    },
+    {
+      "name": "Akuai-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Akuai-F.png"
+    },
+    {
+      "name": "Akuai-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Akuai-Y.png"
+    },
+    {
+      "name": "Alist-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Alist-F.png"
+    },
+    {
+      "name": "Alist-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Alist-Y.png"
+    },
+    {
+      "name": "AlphaTV-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/AlphaTV-F.png"
+    },
+    {
+      "name": "AlphaTV-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/AlphaTV-Y.png"
+    },
+    {
+      "name": "Aurora-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Aurora-F.png"
+    },
+    {
+      "name": "AuroraMedia-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/AuroraMedia-F.png"
+    },
+    {
+      "name": "AuroraMedia-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/AuroraMedia-Y.png"
+    },
+    {
+      "name": "BB-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/BB-F.png"
+    },
+    {
+      "name": "CcEmby-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/CcEmby-F.png"
+    },
+    {
+      "name": "CcEmby-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/CcEmby-Y.png"
+    },
+    {
+      "name": "CharonTV-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/CharonTV-F.png"
+    },
+    {
+      "name": "CharonTV-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/CharonTV-Y.png"
+    },
+    {
+      "name": "CherryTV-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/CherryTV-F.png"
+    },
+    {
+      "name": "CherryTV-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/CherryTV-Y.png"
+    },
+    {
+      "name": "CoCo-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/CoCo-F.png"
+    },
+    {
+      "name": "CoCo-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/CoCo-Y.png"
+    },
+    {
+      "name": "CurlyMouse-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/CurlyMouse-F.png"
+    },
+    {
+      "name": "CurlyMouse-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/CurlyMouse-Y.png"
+    },
+    {
+      "name": "Dolphin-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Dolphin-F.png"
+    },
+    {
+      "name": "Dolphin-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Dolphin-Y.png"
+    },
+    {
+      "name": "Efu-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Efu-F.png"
+    },
+    {
+      "name": "Efu-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Efu-Y.png"
+    },
+    {
+      "name": "Emby-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Emby-F.png"
+    },
+    {
+      "name": "Emby-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Emby-Y.png"
+    },
+    {
+      "name": "Emby1-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Emby1-F.png"
+    },
+    {
+      "name": "Emby1-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Emby1-Y.png"
+    },
+    {
+      "name": "FeiyueChat-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/FeiyueChat-F.png"
+    },
+    {
+      "name": "FeiyueChat-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/FeiyueChat-Y.png"
+    },
+    {
+      "name": "FeiyueDPX-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/FeiyueDPX-F.png"
+    },
+    {
+      "name": "FeiyueDPX-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/FeiyueDPX-Y.png"
+    },
+    {
+      "name": "Feiyuecaihong-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Feiyuecaihong-F.png"
+    },
+    {
+      "name": "Feiyuecaihong-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Feiyuecaihong-Y.png"
+    },
+    {
+      "name": "Feiyueyinhe-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Feiyueyinhe-F.png"
+    },
+    {
+      "name": "Feiyueyinhe-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Feiyueyinhe-Y.png"
+    },
+    {
+      "name": "Foxcoo-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Foxcoo-F.png"
+    },
+    {
+      "name": "Foxcoo-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Foxcoo-Y.png"
+    },
+    {
+      "name": "GfwEmby-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/GfwEmby-F.png"
+    },
+    {
+      "name": "GfwEmby-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/GfwEmby-Y.png"
+    },
+    {
+      "name": "Guanying-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Guanying-F.png"
+    },
+    {
+      "name": "Guanying-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Guanying-Y.png"
+    },
+    {
+      "name": "Gugu-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Gugu-F.png"
+    },
+    {
+      "name": "Gugu-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Gugu-Y.png"
+    },
+    {
+      "name": "HXD1-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/HXD1-F.png"
+    },
+    {
+      "name": "HXD3-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/HXD3-Y.png"
+    },
+    {
+      "name": "HongChen-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/HongChen-F.png"
+    },
+    {
+      "name": "HongChen-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/HongChen-Y.png"
+    },
+    {
+      "name": "Hxd-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Hxd-F.png"
+    },
+    {
+      "name": "Hxd-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Hxd-Y.png"
+    },
+    {
+      "name": "Hxd2-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Hxd2-F.png"
+    },
+    {
+      "name": "Hxd2-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Hxd2-Y.png"
+    },
+    {
+      "name": "Infinity-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Infinity-F.png"
+    },
+    {
+      "name": "Infinity-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Infinity-Y.png"
+    },
+    {
+      "name": "Infuse-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Infuse-F.png"
+    },
+    {
+      "name": "Infuse-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Infuse-Y.png"
+    },
+    {
+      "name": "JSQ-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/JSQ-F.png"
+    },
+    {
+      "name": "JSQ-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/JSQ-Y.png"
+    },
+    {
+      "name": "Jellyfin-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Jellyfin-F.png"
+    },
+    {
+      "name": "Jellyfin-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Jellyfin-Y.png"
+    },
+    {
+      "name": "Jhemby-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Jhemby-F.png"
+    },
+    {
+      "name": "Jhemby-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Jhemby-Y.png"
+    },
+    {
+      "name": "JieNiGui-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/JieNiGui-Y.png"
+    },
+    {
+      "name": "Jingzhe-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Jingzhe-F.png"
+    },
+    {
+      "name": "LEVILDE-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/LEVILDE-F.png"
+    },
+    {
+      "name": "LEVILDE-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/LEVILDE-Y.png"
+    },
+    {
+      "name": "Lend-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Lend-F.png"
+    },
+    {
+      "name": "Lend-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Lend-Y.png"
+    },
+    {
+      "name": "Lvlian-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Lvlian-F.png"
+    },
+    {
+      "name": "Lvlian-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Lvlian-Y.png"
+    },
+    {
+      "name": "Lyrebird-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Lyrebird-F.png"
+    },
+    {
+      "name": "Lyrebird-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Lyrebird-Y.png"
+    },
+    {
+      "name": "Lyrebird1-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Lyrebird1-F.png"
+    },
+    {
+      "name": "Lyrebird1-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Lyrebird1-Y.png"
+    },
+    {
+      "name": "Magic-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Magic-F.png"
+    },
+    {
+      "name": "Magic-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Magic-Y.png"
+    },
+    {
+      "name": "MisakaF1-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/MisakaF1-F.png"
+    },
+    {
+      "name": "MisakaF1-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/MisakaF1-Y.png"
+    },
+    {
+      "name": "Misty-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Misty-F.png"
+    },
+    {
+      "name": "Misty-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Misty-Y.png"
+    },
+    {
+      "name": "Misty1-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Misty1-F.png"
+    },
+    {
+      "name": "Misty1-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Misty1-Y.png"
+    },
+    {
+      "name": "Moonlight-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Moonlight-F.png"
+    },
+    {
+      "name": "Moonlight-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Moonlight-Y.png"
+    },
+    {
+      "name": "Music-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Music-F.png"
+    },
+    {
+      "name": "Music-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Music-Y.png"
+    },
+    {
+      "name": "NakoNako-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/NakoNako-F.png"
+    },
+    {
+      "name": "NakoNako-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/NakoNako-Y.png"
+    },
+    {
+      "name": "Nanflix-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Nanflix-F.png"
+    },
+    {
+      "name": "Nanflix-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Nanflix-Y.png"
+    },
+    {
+      "name": "Nas-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Nas-F.png"
+    },
+    {
+      "name": "Nas-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Nas-Y.png"
+    },
+    {
+      "name": "Nebula-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Nebula-F.png"
+    },
+    {
+      "name": "Nebula-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Nebula-Y.png"
+    },
+    {
+      "name": "Nebula1-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Nebula1-F.png"
+    },
+    {
+      "name": "Nebula1-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Nebula1-Y.png"
+    },
+    {
+      "name": "Nijigen-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Nijigen-F.png"
+    },
+    {
+      "name": "Nijigen-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Nijigen-Y.png"
+    },
+    {
+      "name": "Nirvana-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Nirvana-F.png"
+    },
+    {
+      "name": "Nirvana-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Nirvana-Y.png"
+    },
+    {
+      "name": "NmEmby-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/NmEmby-F.png"
+    },
+    {
+      "name": "NmEmby-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/NmEmby-Y.png"
+    },
+    {
+      "name": "Ntrrr-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Ntrrr-F.png"
+    },
+    {
+      "name": "Ntrrr-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Ntrrr-Y.png"
+    },
+    {
+      "name": "Nya-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Nya-F.png"
+    },
+    {
+      "name": "Nya-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Nya-Y.png"
+    },
+    {
+      "name": "Odyssey-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Odyssey-F.png"
+    },
+    {
+      "name": "Odyssey-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Odyssey-Y.png"
+    },
+    {
+      "name": "Pandatv-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Pandatv-F.png"
+    },
+    {
+      "name": "Pandatv-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Pandatv-Y.png"
+    },
+    {
+      "name": "Paul-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Paul-F.png"
+    },
+    {
+      "name": "Paul-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Paul-Y.png"
+    },
+    {
+      "name": "Peach1-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Peach1-F.png"
+    },
+    {
+      "name": "Peach1-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Peach1-Y.png"
+    },
+    {
+      "name": "Peach2-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Peach2-F.png"
+    },
+    {
+      "name": "Peach2-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Peach2-Y.png"
+    },
+    {
+      "name": "PikPak-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/PikPak-F.png"
+    },
+    {
+      "name": "PikPak-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/PikPak-Y.png"
+    },
+    {
+      "name": "PiliPili-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/PiliPili-F.png"
+    },
+    {
+      "name": "PiliPili-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/PiliPili-Y.png"
+    },
+    {
+      "name": "Plex-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Plex-F.png"
+    },
+    {
+      "name": "Plex-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Plex-Y.png"
+    },
+    {
+      "name": "Plex1-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Plex1-F.png"
+    },
+    {
+      "name": "Plex1-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Plex1-Y.png"
+    },
+    {
+      "name": "Plumber-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Plumber-F.png"
+    },
+    {
+      "name": "Plumber-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Plumber-Y.png"
+    },
+    {
+      "name": "Plus-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Plus-F.png"
+    },
+    {
+      "name": "Plus-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Plus-Y.png"
+    },
+    {
+      "name": "Polo-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Polo-F.png"
+    },
+    {
+      "name": "Polo-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Polo-Y.png"
+    },
+    {
+      "name": "Polo1-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Polo1-F.png"
+    },
+    {
+      "name": "Polo1-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Polo1-Y.png"
+    },
+    {
+      "name": "PornEmby-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/PornEmby-F.png"
+    },
+    {
+      "name": "PornEmby-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/PornEmby-Y.png"
+    },
+    {
+      "name": "Prpr-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Prpr-F.png"
+    },
+    {
+      "name": "Prpr-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Prpr-Y.png"
+    },
+    {
+      "name": "QDZ-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/QDZ-F.png"
+    },
+    {
+      "name": "QDZ-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/QDZ-Y.png"
+    },
+    {
+      "name": "Qunhui-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Qunhui-F.png"
+    },
+    {
+      "name": "Qunhui-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Qunhui-Y.png"
+    },
+    {
+      "name": "Raisemby-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Raisemby-F.png"
+    },
+    {
+      "name": "Raisemby-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Raisemby-Y.png"
+    },
+    {
+      "name": "SDPremium-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/SDPremium-F.png"
+    },
+    {
+      "name": "SDPremium-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/SDPremium-Y.png"
+    },
+    {
+      "name": "SDlite-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/SDlite-F.png"
+    },
+    {
+      "name": "SDlite-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/SDlite-Y.png"
+    },
+    {
+      "name": "Sela-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Sela-F.png"
+    },
+    {
+      "name": "Sela-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Sela-Y.png"
+    },
+    {
+      "name": "Shufu-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Shufu-F.png"
+    },
+    {
+      "name": "Shufu-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Shufu-Y.png"
+    },
+    {
+      "name": "ShuiMu-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/ShuiMu-F.png"
+    },
+    {
+      "name": "ShuiMu-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/ShuiMu-Y.png"
+    },
+    {
+      "name": "ShuiMuV-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/ShuiMuV-F.png"
+    },
+    {
+      "name": "ShuiMuV-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/ShuiMuV-Y.png"
+    },
+    {
+      "name": "SiRenYingYuan-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/SiRenYingYuan-F.png"
+    },
+    {
+      "name": "SiRenYingYuan-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/SiRenYingYuan-Y.png"
+    },
+    {
+      "name": "Singularity-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Singularity-F.png"
+    },
+    {
+      "name": "Singularity-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Singularity-Y.png"
+    },
+    {
+      "name": "Tanhua-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Tanhua-F.png"
+    },
+    {
+      "name": "Tanhua-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Tanhua-Y.png"
+    },
+    {
+      "name": "Tanhua1-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Tanhua1-F.png"
+    },
+    {
+      "name": "Tanhua1-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Tanhua1-Y.png"
+    },
+    {
+      "name": "Temby1-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Temby1-F.png"
+    },
+    {
+      "name": "Temby1-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Temby1-Y.png"
+    },
+    {
+      "name": "Terminus-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Terminus-F.png"
+    },
+    {
+      "name": "Terminus-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Terminus-Y.png"
+    },
+    {
+      "name": "TreeDiagram-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/TreeDiagram-F.png"
+    },
+    {
+      "name": "TreeDiagram-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/TreeDiagram-Y.png"
+    },
+    {
+      "name": "Xiaoyi-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Xiaoyi-F.png"
+    },
+    {
+      "name": "Xiaoyi-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Xiaoyi-Y.png"
+    },
+    {
+      "name": "YOMO-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/YOMO-F.png"
+    },
+    {
+      "name": "YOMO-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/YOMO-Y.png"
+    },
+    {
+      "name": "YOMO1-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/YOMO1-F.png"
+    },
+    {
+      "name": "YOMO1-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/YOMO1-Y.png"
+    },
+    {
+      "name": "Yeshou-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/Yeshou-Y.png"
+    },
+    {
+      "name": "YueBing-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/YueBing-F.png"
+    },
+    {
+      "name": "YueBing-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/YueBing-Y.png"
+    },
+    {
+      "name": "ZhiPianRen-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/ZhiPianRen-F.png"
+    },
+    {
+      "name": "ZhiPianRen-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/ZhiPianRen-Y.png"
+    },
+    {
+      "name": "acv-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/acv-F.png"
+    },
+    {
+      "name": "acv-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/acv-Y.png"
+    },
+    {
+      "name": "lily-F.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/lily-F.png"
+    },
+    {
+      "name": "lily-Y.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/Emby/lily-Y.png"
+    }
+  ]
+}

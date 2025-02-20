@@ -1,0 +1,334 @@
+{
+  "name": "AppFilter",
+  "description": "Jard1n",
+  "icons": [
+    {
+      "name": "AdBlock.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/AdBlock.png"
+    },
+    {
+      "name": "Adblock1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Adblock1.png"
+    },
+    {
+      "name": "Aiqiyi.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Aiqiyi.png"
+    },
+    {
+      "name": "Amazon.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Amazon.png"
+    },
+    {
+      "name": "Apple.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Apple.png"
+    },
+    {
+      "name": "Apple1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Apple1.png"
+    },
+    {
+      "name": "AppleNews.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/AppleNews.png"
+    },
+    {
+      "name": "AppleTV.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/AppleTV.png"
+    },
+    {
+      "name": "Auto.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Auto.png"
+    },
+    {
+      "name": "BGP.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/BGP.png"
+    },
+    {
+      "name": "Bahamut.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Bahamut.png"
+    },
+    {
+      "name": "Bili.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Bili.png"
+    },
+    {
+      "name": "Bilibili.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Bilibili.png"
+    },
+    {
+      "name": "Bing.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Bing.png"
+    },
+    {
+      "name": "CMedia.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/CMedia.png"
+    },
+    {
+      "name": "Clubhouse.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Clubhouse.png"
+    },
+    {
+      "name": "DIA.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/DIA.png"
+    },
+    {
+      "name": "Direct.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Direct.png"
+    },
+    {
+      "name": "Disney+.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Disney+.png"
+    },
+    {
+      "name": "EF.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/EF.png"
+    },
+    {
+      "name": "Emby.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Emby.png"
+    },
+    {
+      "name": "Final.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Final.png"
+    },
+    {
+      "name": "Final01.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Final01.png"
+    },
+    {
+      "name": "Final1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Final1.png"
+    },
+    {
+      "name": "GMedia.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/GMedia.png"
+    },
+    {
+      "name": "Game.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Game.png"
+    },
+    {
+      "name": "Global.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Global.png"
+    },
+    {
+      "name": "Google.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Google.png"
+    },
+    {
+      "name": "Google1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Google1.png"
+    },
+    {
+      "name": "GoogleDrive.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/GoogleDrive.png"
+    },
+    {
+      "name": "HBO.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/HBO.png"
+    },
+    {
+      "name": "Heart.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Heart.png"
+    },
+    {
+      "name": "Home.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Home.png"
+    },
+    {
+      "name": "Hulu.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Hulu.png"
+    },
+    {
+      "name": "IEPL.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/IEPL.png"
+    },
+    {
+      "name": "IPLC.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/IPLC.png"
+    },
+    {
+      "name": "Instagram.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Instagram.png"
+    },
+    {
+      "name": "Line.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Line.png"
+    },
+    {
+      "name": "LoL.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/LoL.png"
+    },
+    {
+      "name": "Loon.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Loon.png"
+    },
+    {
+      "name": "LoonBB.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/LoonBB.png"
+    },
+    {
+      "name": "LoonBB1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/LoonBB1.png"
+    },
+    {
+      "name": "Mainland.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Mainland.png"
+    },
+    {
+      "name": "Miaosu.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Miaosu.png"
+    },
+    {
+      "name": "Microsoft.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Microsoft.png"
+    },
+    {
+      "name": "Microsoft1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Microsoft1.png"
+    },
+    {
+      "name": "Netease.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Netease.png"
+    },
+    {
+      "name": "NeteaseUnblock.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/NeteaseUnblock.png"
+    },
+    {
+      "name": "Netflix.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Netflix.png"
+    },
+    {
+      "name": "OpenAI.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/OpenAI.png"
+    },
+    {
+      "name": "Outside.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Outside.png"
+    },
+    {
+      "name": "PSN.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/PSN.png"
+    },
+    {
+      "name": "Paypal.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Paypal.png"
+    },
+    {
+      "name": "Paypal1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Paypal1.png"
+    },
+    {
+      "name": "Pornhub.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Pornhub.png"
+    },
+    {
+      "name": "PrimeVideo.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/PrimeVideo.png"
+    },
+    {
+      "name": "PrimeVideo1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/PrimeVideo1.png"
+    },
+    {
+      "name": "Proxy.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Proxy.png"
+    },
+    {
+      "name": "QQvideo.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/QQvideo.png"
+    },
+    {
+      "name": "Reject.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Reject.png"
+    },
+    {
+      "name": "SSID.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/SSID.png"
+    },
+    {
+      "name": "SSport+.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/SSport+.png"
+    },
+    {
+      "name": "Server.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Server.png"
+    },
+    {
+      "name": "Speedtest.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Speedtest.png"
+    },
+    {
+      "name": "Spotify.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Spotify.png"
+    },
+    {
+      "name": "Star+.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Star+.png"
+    },
+    {
+      "name": "Steam.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Steam.png"
+    },
+    {
+      "name": "StreamingCN.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/StreamingCN.png"
+    },
+    {
+      "name": "TVBAnywhere+.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/TVBAnywhere+.png"
+    },
+    {
+      "name": "Telegram.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Telegram.png"
+    },
+    {
+      "name": "TestFlight.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/TestFlight.png"
+    },
+    {
+      "name": "Tiktok.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Tiktok.png"
+    },
+    {
+      "name": "Twitter.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Twitter.png"
+    },
+    {
+      "name": "Urltest.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Urltest.png"
+    },
+    {
+      "name": "VPS.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/VPS.png"
+    },
+    {
+      "name": "VPS1.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/VPS1.png"
+    },
+    {
+      "name": "VPS2.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/VPS2.png"
+    },
+    {
+      "name": "Vpn.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Vpn.png"
+    },
+    {
+      "name": "Weibo.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Weibo.png"
+    },
+    {
+      "name": "Whatsapp.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Whatsapp.png"
+    },
+    {
+      "name": "X.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/X.png"
+    },
+    {
+      "name": "Youtube.png",
+      "url": "https://raw.githubusercontent.com/Jard1n/icon/main/AppFilter/Youtube.png"
+    }
+  ]
+}
